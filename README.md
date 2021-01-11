@@ -8,17 +8,11 @@ This project will build a platform for exploring large datasets and applying pre
 
 The platform will focus on classification tasks. Users will be able to upload datasets in CSV or JSON and then select attributes of each data item to serve as labels. Once labeled datasets are available, users will be able to use graphical tools to draw a machine learning pipeline and choose algorithms to apply to the data without coding.
 
-Project Contacts: Jill Reynolds (jill.reynolds@doesnt.exist.vanderbilt.edu), Bob Dole (bob.dole@doesnt.exist.vanderbilt.edu)
-Team Members: Add yourself here if you have committed to this project...
-
 ## Project Idea: Your Project Title Here [Don't Edit]
 
 Your 2-paragraph project description here...
 
 And here...
-
-Project Contacts: Your Name (your contact info)
-Team Members: ...anyone committed...leave yourself off if you aren't committed...
 
 # All Project Ideas Down Here
 
