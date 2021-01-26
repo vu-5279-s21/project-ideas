@@ -26,3 +26,6 @@ suite of open-source text games (Zork, Oregon Trail, etc.) that can be played vi
 
 React Native will be used for cross-device compatibility to create a SaaP ‘app’. Ideally, an adapter will be created to connect our speech interface to the CLI
 games. An online catalogue of downloadable games would probably be necessary to reduce local overhead.
+
+Project Contacts: Nolan Raghu (nolan.raghu@vanderbilt.edu)
+Team Members:
