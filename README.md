@@ -17,3 +17,12 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+##Speech-to-Zork
+
+In the advent of the gig economy, many delivery-people rely on audio entertainment to pass the time while driving long hours. I hope to offer a new alternative
+utilizing the text-based designs of gaming’s past. This project will create a mobile console to play text-based games via voice commands. The app would offer a
+suite of open-source text games (Zork, Oregon Trail, etc.) that can be played via speech recognition. 
+
+React Native will be used for cross-device compatibility to create a SaaP ‘app’. Ideally, an adapter will be created to connect our speech interface to the CLI
+games. An online catalogue of downloadable games would probably be necessary to reduce local overhead.
