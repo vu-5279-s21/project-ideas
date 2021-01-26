@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Automated Trading
+
+This project will build an Automated Trading platform that can be used by traders to reduce the traffic of Request for Quotes (RFQs). The team will do through Amazon Web Services's Augmented Artificial Intelligence (A2I). A2I combines the power of machine learning with the precision and care of human review, which is perfect for the riskiness, complexity, and unpredictability of the stock market. In addition, the Machine Learning aspect of A2I will improve the quality of the platform's predictions over time.
+
+First, the team will develop a set of ML algorithms to recognize stock trends. These algorithms will then be applied to different financial data sets through the A2I platform. This way, when an RFQ is received, the the platform will determine whether the trade/quote is beneficial above a certain specified confidence interval (i.e. above 95% confident). In other words, the platform will automatically complete/respond to an RFQ if it is over 95% confident it will be a successful trade. Any RFQs that the platform is less than 95% confident will be profitable will be sent to a human trader for "human review," during which the trader can assess the RFQ and make a decision. This decision is then used to improve the machine learning algorithms and future predictions. This will significantly reduce RFQ traffic by automating any trivial trades and filtering out any obvious RFQs, leaving the more complex RFQs for human traders to evaluate.
