@@ -17,3 +17,10 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Cooking Guru
+
+Cooking Guru is a mobile and web application that will include two main services. As a mobile application, it will be available on both Android and Apple devices. The need for this application comes from the poor distribution of food currently in America. The first service is a pantry service which will allow users to enter in items that they currently have within their pantry. With this list of items, the users will then be able to search for a list of recipes that they can make given the items that they have listed within their account’s pantry. The application will be able to search for both recipes for cooking and recipes for drinks.
+
+The second service will be a social media platform that allows users to connect and share their personal recipes. Most importantly, users will be able to post personal recipes 
+as well as images of the dishes they have created. Users will also be able to connect with each other and search for popular/trending dishes. In addition to this, they will be able to like and favorite posts from other users in order to save them for later. Finally, users will be able to leave ratings on recipes that they have seen or tried, altering a recipe’s visibility to other users.
