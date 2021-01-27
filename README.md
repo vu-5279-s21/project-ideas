@@ -14,6 +14,24 @@ Your 2-paragraph project description here...
 
 And here...
 
+## Project Idea: Music Theory Analytics Platform
+
+The goal of this project is to develop a platform for analyzing and looking into the music theory
+of songs by utilizing machine learning algorithms to first get the individual stems of a song (like bass, vocals,
+instruments, percussion) and then performing different transformations on each waveform. Plenty of sites provide
+basic lyrics transcriptions or information on the chords, but often skim past deeper harmonic structure, actual chord
+progressions and voicings, or song form. The team will implement a Java Spring-based web platform with the goal of 
+concrete functionailty to compute the basic song features, such as individual song stems, determine time signature, 
+key signature, BPM, develop accurate chord charts and transcribe lyrics for a basic framework of the song. 
+The actual algorithms for chord recognition, stem splitting, and downbeat tracking will be implemented in Python.
+
+The platform will also seek to provide advanced analytics to the music based on genres. Users will upload a mp3 or a wav,
+and by again implementing machine learning algorithms based on common chord progressions and Roman Numeral Analysis, songs 
+that follow a similar harmonic structure can be compared to provide users with different voicings (e.g. closed and shell 
+voicings) or different chord substitutions and reharmonization. This functionality is dependent on scraping existing 
+data on chord structures of songs to recognize common substitutions, allowing users to explore new arrangements or methods
+of song production and mixes.
+
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
