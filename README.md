@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Voice Controlled Website Navigation
+
+The project goal is to build a platform that enables users to customize a voice controlled chrome navigation extension. Users will be able to link their specified voice commands for general navigation from opening up a website to creating their own command that works specifically on certain websites. This can be implemented using a variety of speech recognition APIs such as Google Speech API, Speech API, Web Speech API, etc. 
+
+The project allows for a host of additional features such as the ability to recognize multiple languages, linking commands together with a single command, enable private mode and so on. Users will be able to create commands using drag and drop features linking a command to a single action or a chain of actions. From there, commands can be linked together possibly allowing sentence activated commands. 
