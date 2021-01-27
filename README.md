@@ -17,3 +17,10 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Meal Recommender
+
+Ever since COVID began, people have been cooking in far more than they used to. As a result, there is often a random assortment of groceries left over in people’s fridges and pantries. My idea is to create a mobile app that would allow people to enter the ingredients they had, and the app would suggest recipes that use those ingredients. In addition, the app would allow users to select the types of recipes that they preferred, so that those would be suggested. 
+
+My vision is that the app would tap into some larger database of recipes. Once results for a certain group of ingredients is entered, the user could sort through the recipes using different filtering functions such as cuisine type or calories or spice level. Since I have a little bit of experience with python and react native, I am planning on using react native as my framework to complete the app. However, this is a place where I may change my plans should I find a more suitable framework to use in order to complete the app.
+
