@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Better WhenIsGood
+
+This project will be to create a website or application to deliver an improved meeting planning service that can take in a group's Google or Apple calendars and determine some possible meeting times that work for everyone. WhenIsGood is a similar service, but has its shortcomings: users have to individually bubble in their availability, admins have to keep track of several links in order to update or view the calendar, and there is no export feature built in. Microsoft teams has a scheduling assistant that can check every team members Outlook calendar to find a common meeting time, but this is limited to users of Microsoft Teams and cannot be extended informal meeting arrangements.
+
+The project will combine the scheduling assistant from Microsoft teams with platform compatibility so both Apple and Google Calendar users can import their calendars. This project could go in a couple different directions: either as a stand alone web app that can import the data, or as a chrome extension that runs with the Google/Apple/Microsoft calendar sites. These can be built using JavaScript/React. 
