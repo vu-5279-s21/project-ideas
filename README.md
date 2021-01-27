@@ -17,3 +17,13 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Daily Decision-Maker
+
+My idea is to make an app that will make decisions for you. Personally, I stare at my closet for at least a few minutes in the morning trying to decide what to wear. My friends and I can never pick a movie to watch. We never know what we want to make for dinner, or whether we should get takeout. These all seem like very trivial decisions, but according to research done by the host of the podcast The Happiness Lab, Dr. Laurie Santos, we all make thousands of trivial choices every day that can sap our energy and leave us feeling exhausted and mentally worn out. She also describes research that shows when there are more options, you feel less happy about the one you end up choosing, no matter how positive that choice ends up being. 
+
+The idea for the app is to minimize the trivial options that people have to choose from every day or make those decisions for them so that they can focus on more important things. For really common decisions like the ones I mentioned earlier, we can have a database of options from which an answer will be chosen. If someone wants to pick a movie, the app will ask them what genre or if they just want a random movie, then come up with a single suggestion so that the user doesn’t have to make a choice. For food suggestions, the app will ask whether they want to cook or eat out or if they just want to go random, and it will come up with recipes and a grocery store or a nearby restaurant. For what to wear, the user could input items from their wardrobe and the app could choose an outfit by taking the weather forecast into account. The app wouldn’t be limited to just these decisions. The users themselves could be a source of data for the app, and as more and more users add the daily decisions they have to make, the database of questions and possible answers will grow. 
+
+Research shows that needing to make fewer decisions can lead to a happier life, and this app would aim to achieve that.
+
+
