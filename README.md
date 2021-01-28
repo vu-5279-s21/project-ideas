@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Universal Calendar 
+
+I’ve been part of a student org for my four years at Vanderbilt and one issue we kept running into was figuring out what days were good for holding events. I assume all student orgs and even Vanderbilt departments like the career center/wellness center etc run into the same problem when scheduling events. They can reach out to a few classes and ask if they have a midterm or major project coming up but that’s not good enough and the wait time on responses etc is a waste of time. 
+
+I would like to build a website students where students orgs and vandy administration can go to check which days are relatively free of major assignments. Students can go in at the start of the semester and put in all the due dates for a class and continue to add and remove dates according to changes in the semester. When a student org logs in they will see a calendar with different colored boxes indicating how busy that day is for students. They will also be able to filter the calendar based on departments or class levels. For example VandyHacks would filter for CS related events. The commons center can filter for classes that start with a 1 in the course number or even by specific classes. To ensure that student orgs don’t end up scheduling all their events on the same days they can also enter events into the calendar and that is factored into calculating whether each day is relatively free or full. The student view will be able to filter for events similarly so they will be able to see a comprehensive list of events for each day within their department or interest or even in general on that day. It will function as a master guide to everything happening on campus and be able to suggest dates to keep everything balance through the year. 
