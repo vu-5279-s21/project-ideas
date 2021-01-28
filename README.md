@@ -17,3 +17,10 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Spotify Friend Recommendations
+
+One of the best features of Spotify is how social it is with the ability to follow your friends, see what they're listening to, and easily share playlists. Additionally, Spotify has robust algorithms used to create recommended playlists based on individual preferences. For my senior design project I plan to combine these features to make it easier to share music recommendations with friends. I will create a web application to generate customized playlists for Spotify users based on the music their friends are listening to.
+
+Spotify has a large collection of personalized playlists already-- Discover Weekly, Release Radar, Daily Mix, etc. The application will use a similar algorithm to create a playlist consisting of songs chosen from another user’s public playlists. This project will involve using the Spotify Web API to access a user’s profile and preferences, as well as creating the user interface for the web app.
+
