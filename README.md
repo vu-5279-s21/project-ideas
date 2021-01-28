@@ -14,6 +14,14 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+## Web Scraping and Price Analysis 
+
+An application that will show competitive prices for a certain product. These prices will be obtained through some form of web scraping and displaying the data on the site, as well as in the database. 
+
+The idea behind this project is to create an application that functions as a hub or a "one stop shop" for a certain product. This will contain pertinent information to the user, such as the price of the product. This project is vague at the moment because there are numerous options for what the product can be (including shoes, clothes, textbooks, etc). Deciding on this product will come with more research on what websites allow scraping, to be extremely careful on what is done.
+
+An example of the product is shoes. Say someone is looking for shoes from FootLocker, Finish Line & EastBay. Scraping the product pages from these websites will allow for the data, such as price, to be obtained and displayed on the website. With this website, users can look in one spot and compare prices from different competitors, lessoning the hassle of visiting many different websites to see prices and important information.
+
 
 ## Project Idea: Public Speaking Skills Enhancer
 
