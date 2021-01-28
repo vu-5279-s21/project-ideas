@@ -14,6 +14,21 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+
+## recruit.com: All-in-One Solution for Undergraduate Recruitment
+
+As we are now entering the second semester of our senior year, we all have seen countless friends engage in months-long frenzies to recruit for internships and jobs. I found that this recruitment process, one that begins in freshman year for some, was extremely overwhelming and complicated. The information necessary to navigate the complexities of this process was scattered, varied, and certainly not consolidated onto a single platform. While resources like company websites, online forums, the Vanderbilt career center, and employer information sessions were helpful in navigating the internship/job market, I never came across an all-in-one resource that could help guide a college student through this process of transitioning into the working world. My project proposal is to attempt to create an all-encompassing online resource in the form of a website that streamlines the recruitment process for undergraduate students and helps them both discover the employment possibilities that exist as well as how they can obtain such possibilities. This could be thought of as a DoreWays on steroids. (It could also be integrated with DoreWays and websites like Vault.com.)
+
+While the scope of this project will certainly need to be narrowed, I would like to mention just a few of the potential features this website could have:
+
+Multi-Industry Exploration: A section of the website dedicated to informing students of some of the most popular industries for Vanderbilt graduates. This section could include statistics related to the number of recent Vanderbilt graduates who entered various industries, their salaries, and the positions they hold. It could also include contact information and interviews with former students about their current roles and industries. (The school of engineering publishes similar data yearly.)
+
+Single-Industry Exploration: A section of the website dedicated to a specific industry such as the technology industry. Such a section could include popular entry-level positions (SWE, PM, Data Scientist), their associated salaries, difficulty of attainment, recruitment process, Vanderbilt alumni, etc. (Such a section could be linked to external ranking and informational sites such as Vault.com.)
+
+Role-Specific Recruitment Pipeline: Such a section would give a comprehensive overview of a single recruitment pipeline, such as that of SWE. It could provide the user with features such as the overall process and timeline for general internship/job recruitment, the skills necessary for position-specific interviews, as well as links to preparation resources.
+
+User Candidate Hub: Such a section would allow users to conglomerate industries, companies, and roles they are interested in as well as track their “progress” in their overall recruitment strategy. This “progress” could be companies they are in contact with, scheduled an interview with, received an offer from, etc.
+
 ## Used Textbook Marketplace
 This project will address the difficulties that students face in buying and selling college textbooks. Used textbooks are sold at meager 20%-30% discounts from publishing houses and bought back at 60-70% discounts, revelaing a large profit margin that could be returned to students by removing the monopolistic grip that publishers hold over this market.
 This project would establish a marketplace for buyers and sellers to transact, in hopes of helping both parties, and lessening the assymetric information gap that publishers leverage and exploit. 
@@ -44,4 +59,5 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
+
 
