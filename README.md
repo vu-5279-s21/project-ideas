@@ -14,6 +14,12 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+## Voice Controlled Website Navigation
+
+The project goal is to build a platform that enables users to customize a voice controlled chrome navigation extension. Users will be able to link their specified voice commands for general navigation from opening up a website to creating their own command that works specifically on certain websites. This can be implemented using a variety of speech recognition APIs such as Google Speech API, Speech API, Web Speech API, etc. 
+
+The project allows for a host of additional features such as the ability to recognize multiple languages, linking commands together with a single command, enable private mode and so on. Users will be able to create commands using drag and drop features linking a command to a single action or a chain of actions. From there, commands can be linked together possibly allowing sentence activated commands. 
+
 ## Web Scraping and Price Analysis 
 
 An application that will show competitive prices for a certain product. These prices will be obtained through some form of web scraping and displaying the data on the site, as well as in the database. 
@@ -23,14 +29,14 @@ The idea behind this project is to create an application that functions as a hub
 An example of the product is shoes. Say someone is looking for shoes from FootLocker, Finish Line & EastBay. Scraping the product pages from these websites will allow for the data, such as price, to be obtained and displayed on the website. With this website, users can look in one spot and compare prices from different competitors, lessoning the hassle of visiting many different websites to see prices and important information.
 
 
-## Project Idea: Public Speaking Skills Enhancer
+## Public Speaking Skills Enhancer
 
 This project will build an application for users to practice their public speaking skills. The implementation of this application could change, but it is currently planned to be implemented using various Amazon Web Services tools including Amazon Transcribe, Lambda functions, DynamoDB, and Amazon Comprehend, etc. The user will speak to the device (phone, computer, etc.) for practice and this application will highlight possible fixes to enhance your public speaking. 
 
 Some of the highlights will include identification of user customized keywords such as "umm", "uhh", and "like", analysis of both long and short pauses, and calculation of the tempo of the overall speech. The application will allow users to analyze both live and recorded speeches. The application will first display the transcribed speech with highlighted possible fixes and allow comparisons to other users/famous public speakers. Further development of this application could include identification of the tone and the volume of the speeches.
 
 
-## Project Idea: Tinder Meets Netflix
+## Tinder Meets Netflix
 
  This project will build an application for users to help figure out what to watch on netflix or other streaming services with your friends. How this application works is you group up with the friends you want to watch with, in the group you select which streaming services you have available to check from, then you just swipe on movies until you all match on one together to watch. 
  
@@ -42,7 +48,7 @@ I call my project City Park. Tell me how many times have you gone to any city (e
 
 I see 3 main features of this application. I’d like it to be able to take an input location and based on how easily other users can park, output all available parking options if there are any. These parking options include parallel parking required, metered parking, garage, completely free parking, etc. Next, I’d like to store parking availabilities for certain areas and make predictions on availability in the case that no users are currently reporting data for that area. Finally, in the scenario that there is paid parking, I’d like to have a feature that interfaces between the customer who wants to park and the company/person who offers parking. This type of information would help the predictive feature but also would help customers so that they don’t have to be running back to their cars to put a ticket stub to say they paid for parking for the next 2 hours.
 
-## Project Idea: ResQ
+## ResQ
 
 The fostering and adoption community of Nashville is in need of a platform to centralize communication between animal shelters, rescue organizations, and volunteers. As a proud member of the foster community, I receive 3-4 emails a week requesting an available foster for dogs in need – all ranging from sick dogs, to newly-born puppies, to pregnant moms. However, the communication between all parties is highly inefficient. Due to their frequency, the emails are often sent to spam, and if I reply to foster, I am left scrambling for information in a long email chain of information easily lost in my inbox. The volunteer often picks up directly from the animal shelter, where information from the rescue organization is not always transmitted clearly. On the other hand, the rescue organization deals with a large influx of responses, and it is not discernable whether or not the requested foster is equipped to deal with large dogs, small dogs, medical cases, etc. The current system can be greatly improved and I propose a platform to do so: ResQ.
 
@@ -54,7 +60,7 @@ My software project idea is to add and/or extend some functionalities of Vanderb
 A widget display popup in the Student Registration section could allow students to see useful resources, such as their degree audits or weekly schedule based on enrolled and/or in-cart courses, while browsing for courses. Another useful resource that once existed as a Chrome extension for YES, the Rate My Professor extension which displayed professors’ ratings according to RMP next to their names under courses, could be remade and reintegrated. These functions could be created and extended to YES through use of Java/JS.
 
 
-## Project Idea: Spotify Friend Recommendations
+## Spotify Friend Recommendations
 
 One of the best features of Spotify is how social it is with the ability to follow your friends, see what they're listening to, and easily share playlists. Additionally, Spotify has robust algorithms used to create recommended playlists based on individual preferences. For my senior design project I plan to combine these features to make it easier to share music recommendations with friends. I will create a web application to generate customized playlists for Spotify users based on the music their friends are listening to.
 
@@ -100,7 +106,7 @@ Development of this app will not require sophisticated background design and sho
 Email: james.e.hancock@vanderbilt.edu
 Team Members: James Hancock
 
-## Project Idea: ML Model Generator Interface
+## ML Model Generator Interface
 
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
