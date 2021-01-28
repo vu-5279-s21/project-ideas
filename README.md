@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: ML Model Generator Interface
+
+This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
+
+Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
