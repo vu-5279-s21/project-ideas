@@ -16,6 +16,24 @@ For my senior design project, I am going to build a multiplayer game where playe
 This project will likely be written in react native in order to achieve cross platform compatibility for mobile devices, and will hopefully use a distributed game server to support concurrent multiplayer functionality. Having a wide array of potential minigames to develop will allow for our agile process to produce meaningful working content at each stage, while also allowing for enough potential creative leeway to keep pushing our development process forward with new content throughout the semester. We will have to use graphical tools to implement game sprites and such, and may have to implement basic physics engines for some of the minigames as well. As far as non-technical specs go, a significant chunk of time will probably be spent developing designs/ minigames that can be incorporated into the larger game.
 
 
+## Project Idea: Music Theory Analytics Platform
+
+The goal of this project is to develop a platform for analyzing and looking into the music theory
+of songs by utilizing machine learning algorithms to first get the individual stems of a song (like bass, vocals,
+instruments, percussion) and then performing different transformations on each waveform. Plenty of sites provide
+basic lyrics transcriptions or information on the chords, but often skim past deeper harmonic structure, actual chord
+progressions and voicings, or song form. The team will implement a Java Spring-based web platform with the goal of 
+concrete functionailty to compute the basic song features, such as individual song stems, determine time signature, 
+key signature, BPM, develop accurate chord charts and transcribe lyrics for a basic framework of the song. 
+The actual algorithms for chord recognition, stem splitting, and downbeat tracking will be implemented in Python.
+
+The platform will also seek to provide advanced analytics to the music based on genres. Users will upload a mp3 or a wav,
+and by again implementing machine learning algorithms based on common chord progressions and Roman Numeral Analysis, songs 
+that follow a similar harmonic structure can be compared to provide users with different voicings (e.g. closed and shell 
+voicings) or different chord substitutions and reharmonization. This functionality is dependent on scraping existing 
+data on chord structures of songs to recognize common substitutions, allowing users to explore new arrangements or methods
+of song production and mixes.
+
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
