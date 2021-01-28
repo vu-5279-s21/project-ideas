@@ -16,6 +16,11 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 Add your project ideas after this sentence. 
 
+## Restaurant Recommendations
+
+This project idea is for a restaurant recommendation app that uses recommendations from people on various sources to determine which restaurants are most well-liked in an area for various different categories. For example, it can browse reddit posts discussing burger places in Nashville to find which places are most often recommended. Unlike traditional reviewing platforms, this project idea will focus on giving you a recommendation rather than an evaluation of a place you searched.
+
+The application will browse the internet searching searching places where people often discuss restaurants and compile the different recommendations into a database that will list different restaurants, their frequency of recommendation, and their category. It can be set to automatically search for new discussion at set intervals. A key problem to solve will be interpreting the different ways people talk on the internet, including mispellings and multiple names for places. When users use the application, they will be able to select a location and some limiting factors such as type of cuisine, and the application will generate a list of recommendations for them in order based on popularity and how closely they match the user-given preferences (such as pricepoint).
 
 ## Stock Sentiment Analysis using Twitter
 
