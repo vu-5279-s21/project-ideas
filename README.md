@@ -17,3 +17,10 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+
+## Project Idea: Public Speaking Skills Enhancer
+
+This project will build an application for users to practice their public speaking skills. The implementation of this application could change, but it is currently planned to be implemented using various Amazon Web Services tools including Amazon Transcribe, Lambda functions, DynamoDB, and Amazon Comprehend, etc. The user will speak to the device (phone, computer, etc.) for practice and this application will highlight possible fixes to enhance your public speaking. 
+
+Some of the highlights will include identification of user customized keywords such as "umm", "uhh", and "like", analysis of both long and short pauses, and calculation of the tempo of the overall speech. The application will allow users to analyze both live and recorded speeches. The application will first display the transcribed speech with highlighted possible fixes and allow comparisons to other users/famous public speakers. Further development of this application could include identification of the tone and the volume of the speeches.
