@@ -17,3 +17,9 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+## Project Idea: Tinder Meets Netflix
+
+ This project will build an application for users to help figure out what to watch on netflix or other streaming services with your friends. How this application works is you group up with the friends you want to watch with, in the group you select which streaming services you have available to check from, then you just swipe on movies until you all match on one together to watch. 
+ 
+ This will help get rid of the struggle of trying to figure out what yo uall want to watch on different streaming services. This will also have some features such as allowing you to check genres you want and dont want to watch. You can have a friends list to make it easy to group with your friends when you want, and can see a history of past movies watched. 
