@@ -14,6 +14,13 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+## CityPark
+Add your project ideas after this sentence. 
+
+I call my project City Park. Tell me how many times have you gone to any city (especially its downtown area) and found yourself circling countless city blocks before you can finally parallel park your big SUV into that spot that’s probably only meant for sedans? If I were a betting man, I’d guess your response would be “numerous” or “a lot”. Well, the idea for my project is an application to help combat all of this wasted time if you know your destination. Maybe think of it as Waze, but for parking. 
+
+I see 3 main features of this application. I’d like it to be able to take an input location and based on how easily other users can park, output all available parking options if there are any. These parking options include parallel parking required, metered parking, garage, completely free parking, etc. Next, I’d like to store parking availabilities for certain areas and make predictions on availability in the case that no users are currently reporting data for that area. Finally, in the scenario that there is paid parking, I’d like to have a feature that interfaces between the customer who wants to park and the company/person who offers parking. This type of information would help the predictive feature but also would help customers so that they don’t have to be running back to their cars to put a ticket stub to say they paid for parking for the next 2 hours.
+
 ## Project Idea: ResQ
 
 The fostering and adoption community of Nashville is in need of a platform to centralize communication between animal shelters, rescue organizations, and volunteers. As a proud member of the foster community, I receive 3-4 emails a week requesting an available foster for dogs in need – all ranging from sick dogs, to newly-born puppies, to pregnant moms. However, the communication between all parties is highly inefficient. Due to their frequency, the emails are often sent to spam, and if I reply to foster, I am left scrambling for information in a long email chain of information easily lost in my inbox. The volunteer often picks up directly from the animal shelter, where information from the rescue organization is not always transmitted clearly. On the other hand, the rescue organization deals with a large influx of responses, and it is not discernable whether or not the requested foster is equipped to deal with large dogs, small dogs, medical cases, etc. The current system can be greatly improved and I propose a platform to do so: ResQ.
@@ -77,5 +84,4 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
-
 
