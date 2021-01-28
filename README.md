@@ -14,7 +14,15 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
-## Project Idea: ReFood
+Add your project ideas after this sentence. 
+
+## Meal Recommender
+
+Ever since COVID began, people have been cooking in far more than they used to. As a result, there is often a random assortment of groceries left over in people’s fridges and pantries. My idea is to create a mobile app that would allow people to enter the ingredients they had, and the app would suggest recipes that use those ingredients. In addition, the app would allow users to select the types of recipes that they preferred, so that those would be suggested. 
+
+My vision is that the app would tap into some larger database of recipes. Once results for a certain group of ingredients is entered, the user could sort through the recipes using different filtering functions such as cuisine type or calories or spice level. Since I have a little bit of experience with python and react native, I am planning on using react native as my framework to complete the app. However, this is a place where I may change my plans should I find a more suitable framework to use in order to complete the app.
+
+## ReFood
 My project idea is a web application that has two main focuses- reduce food waste and eliminate 
 hunger in communities. While interning at a non-profit serving people experiencing homelessness, 
 I would visit Panera every Thursday evening to pick up unpurchased baked goods to give to those 
@@ -127,4 +135,5 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
+
 
