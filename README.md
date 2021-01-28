@@ -14,6 +14,11 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+## YESplus
+My software project idea is to add and/or extend some functionalities of Vanderbilt’s Your Enrollment Services (YES) site. This can be done through the use of a Google Chrome extension which students can choose to install or, for better accessibility, an integrated widget which launches specified “extra” functionalities. I see this project as a way to learn more about web integration and containers while also potentially helping out future Vanderbilt students during course registration.
+
+A widget display popup in the Student Registration section could allow students to see useful resources, such as their degree audits or weekly schedule based on enrolled and/or in-cart courses, while browsing for courses. Another useful resource that once existed as a Chrome extension for YES, the Rate My Professor extension which displayed professors’ ratings according to RMP next to their names under courses, could be remade and reintegrated. These functions could be created and extended to YES through use of Java/JS.
+
 
 ## Project Idea: Spotify Friend Recommendations
 
