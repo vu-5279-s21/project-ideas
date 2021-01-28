@@ -15,6 +15,13 @@ The platform will focus on classification tasks. Users will be able to upload da
 # All Project Ideas Down Here
 
 
+## Project Idea: Spotify Friend Recommendations
+
+One of the best features of Spotify is how social it is with the ability to follow your friends, see what they're listening to, and easily share playlists. Additionally, Spotify has robust algorithms used to create recommended playlists based on individual preferences. For my senior design project I plan to combine these features to make it easier to share music recommendations with friends. I will create a web application to generate customized playlists for Spotify users based on the music their friends are listening to.
+
+Spotify has a large collection of personalized playlists already-- Discover Weekly, Release Radar, Daily Mix, etc. The application will use a similar algorithm to create a playlist consisting of songs chosen from another user’s public playlists. This project will involve using the Spotify Web API to access a user’s profile and preferences, as well as creating the user interface for the web app.
+
+
 ## recruit.com: All-in-One Solution for Undergraduate Recruitment
 
 As we are now entering the second semester of our senior year, we all have seen countless friends engage in months-long frenzies to recruit for internships and jobs. I found that this recruitment process, one that begins in freshman year for some, was extremely overwhelming and complicated. The information necessary to navigate the complexities of this process was scattered, varied, and certainly not consolidated onto a single platform. While resources like company websites, online forums, the Vanderbilt career center, and employer information sessions were helpful in navigating the internship/job market, I never came across an all-in-one resource that could help guide a college student through this process of transitioning into the working world. My project proposal is to attempt to create an all-encompassing online resource in the form of a website that streamlines the recruitment process for undergraduate students and helps them both discover the employment possibilities that exist as well as how they can obtain such possibilities. This could be thought of as a DoreWays on steroids. (It could also be integrated with DoreWays and websites like Vault.com.)
