@@ -17,6 +17,16 @@ The platform will focus on classification tasks. Users will be able to upload da
 Add your project ideas after this sentence. 
 
 
+## Stock Sentiment Analysis using Twitter
+
+This project will build a platform for investors to track activity of a particular security or the overall market on social media for e.g., Twitter and use predictive analytics to flag stocks with unusual mentions. Previously, the data used to predict movement in stock prices was mostly objective in nature such as darkpool transactions, put/call ratio and unusual market orders etc. However, the increasing popularity of retail investing and its discussion on social media provides an opportunity to collect data on these platforms, correlate it with the objective metrics and finally flag/predict unusual activities in securities trading by providing the sentiment towards a security in real time.
+
+The goal would be to classify a security in simple terms such as positive, negative or neural. A general Twitter dataset would be used to train the model. The tweets will then need to be processed in a form which is clean and appropriate for Natural Language Processing (NLP). Then, deep learning models (like Logistic Regression, Linear SVC, K-Nearest Neighbors etc.) would need to be used to train the model and find the most suitable model. This model is then used for real time predictions of tweets which are obtained using an API key. The goal is of this project is to provide users with an accurate analysis of subjective and objective information in real time and help identify market opportunities. 
+
+Project contacts: Samarth Kalra
+Team members: TBD
+
+
 ## Infinite Canvas Whiteboard
 
 This project would, essentially, solve the issue of limited zooming when trying to take notes on a touchscreen/stylus based device. Right now, no platform has a great way to take notes that isn't pixel based, meaning when you zoom in you end up with a pixelated image, or if you zoom out you only have tiny controls that are hard to use to take notes. The few vector based drawing apps are hard to find, clunky to use, and aren't created with any specific users in mind.
@@ -165,4 +175,5 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
+
 
