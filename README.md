@@ -16,6 +16,13 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 Add your project ideas after this sentence. 
 
+## Cooking Guru
+
+Cooking Guru is a mobile and web application that will include two main services. As a mobile application, it will be available on both Android and Apple devices. The need for this application comes from the poor distribution of food currently in America. The first service is a pantry service which will allow users to enter in items that they currently have within their pantry. With this list of items, the users will then be able to search for a list of recipes that they can make given the items that they have listed within their account’s pantry. The application will be able to search for both recipes for cooking and recipes for drinks.
+
+The second service will be a social media platform that allows users to connect and share their personal recipes. Most importantly, users will be able to post personal recipes 
+as well as images of the dishes they have created. Users will also be able to connect with each other and search for popular/trending dishes. In addition to this, they will be able to like and favorite posts from other users in order to save them for later. Finally, users will be able to leave ratings on recipes that they have seen or tried, altering a recipe’s visibility to other users.
+
 ## Daily Decision-Maker
 
 My idea is to make an app that will make decisions for you. Personally, I stare at my closet for at least a few minutes in the morning trying to decide what to wear. My friends and I can never pick a movie to watch. We never know what we want to make for dinner, or whether we should get takeout. These all seem like very trivial decisions, but according to research done by the host of the podcast The Happiness Lab, Dr. Laurie Santos, we all make thousands of trivial choices every day that can sap our energy and leave us feeling exhausted and mentally worn out. She also describes research that shows when there are more options, you feel less happy about the one you end up choosing, no matter how positive that choice ends up being. 
@@ -143,6 +150,5 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
-
 
 
