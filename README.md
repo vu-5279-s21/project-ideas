@@ -10,9 +10,10 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 ## Project Idea: Your Project Title Here [Don't Edit]
 
-Your 2-paragraph project description here...
+This project will address the difficulties that students face in buying and selling college textbooks. Used textbooks are sold at meager 20%-30% discounts from publishing houses and bought back at 60-70% discounts, revelaing a large profit margin that could be returned to students by removing the monopolistic grip that publishers hold over this market.
+This project would establish a marketplace for buyers and sellers to transact, in hopes of helping both parties, and lessening the assymetric information gap that publishers leverage and exploit. 
 
-And here...
+The platform would require students to validate their identity with their email address and phone number. When submitting a bid or an ask, the students would have to specify the course, the book name, author, and volume/edition, the desired/existing condition, a few pictures of the book in the case of an ask, and the price of the bid/ask. Upon placement of a bid/ask, the publishers of an existing listings would be notified via email/text of the bid/ask details, regardless of if the request falls within their acceptable margins, to facilitate negotiation and exchange. The application wouldn't be responsible for the negotiation process or the financial transaction, as those responsibilities would fall on text/message/social media apps and cash/check/online payment apps, respectively. 
 
 # All Project Ideas Down Here
 
