@@ -16,6 +16,12 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 Add your project ideas after this sentence. 
 
+## Web-scraping and data analysis on the stock market
+
+Web-scraping is a crucial technique during the burst of big data, and handling the skills to make meaningful analyses from this information would help us gain important insights. Out of the vast amount of resources available on the internet, I'm distinctly interested in exploring the mysterious stock market. To achieve that goal, I propose the project to scrape financial stock-related information, such as the open price, bid, ask, volume, total revenue, and the market cap of a company, from credible finance websites. After the scraping algorithm performs well, the later stage of this project aims to perform a rudimentary or intermediate market analysis to recommend as to buy, hold, or sell a given stock. The project may point to various directions of development, such as statistical graphic generations, data analyses, or recommendation systems. 
+
+I believe that this project is large in scale while manageable for students with all levels of expertise in python and web-scraping.  The project is adjustable and encompasses a wide range of possibilities concerning its potentials for developments and usages. From a developer's perspective, the web-scraping algorithm could be used for researching the market's sentiments, the prospects of an industry, or a straightforward graphic display of a stock's statistics. From a user's perspective, the final product might be used for personal interests in studying and investing in the stock market. Furthermore, the project has great potentials to be developed and supported on various technologies, imposing no limitation on computer systems -- such as iOS, Windows, or Linux -- that the developers are using. It doesn't need much extraneous support to work on this project, such as getting a compatible hardware device, borrowing a server, or matching dozens of software' deployment settings. 
+
 ## Restaurant Recommendations
 
 This project idea is for a restaurant recommendation app that uses recommendations from people on various sources to determine which restaurants are most well-liked in an area for various different categories. For example, it can browse reddit posts discussing burger places in Nashville to find which places are most often recommended. Unlike traditional reviewing platforms, this project idea will focus on giving you a recommendation rather than an evaluation of a place you searched.
@@ -180,5 +186,4 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
-
 
