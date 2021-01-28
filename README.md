@@ -16,6 +16,15 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 Add your project ideas after this sentence. 
 
+## Two-Factor Authentication Application
+
+This project is focused on developing a basic authenticator application for use in a two-factor authentication system. The plan is to design and develop an application (mobile or otherwise) that uses a time-based one-time password system: after synchronizing the application with a website, both the site and the application will simultaneously but independently generate and refresh a single-use password. The user receives the password from the application, and enters it into the website or device, where it is validated allowing the user to log in.
+
+In order to develop and test such an application, it would also be necessary to develop a basic website with a login system. This scope of this project therefore covers both mobile app development and basic web development, although the intent of the project is to focus on the application aspect. The application should ideally be a mobile application in order to reflect a practical two-factor authentication system, but because the focus is on understanding the underlying systems that allow for 2FA to work, the platform on which the authenticator application is made is flexible.
+
+Project contact: Daniel Dong (daniel.p.dong@vanderbilt.edu)
+Team Members: None committed
+
 ## Cooking Guru
 
 Cooking Guru is a mobile and web application that will include two main services. As a mobile application, it will be available on both Android and Apple devices. The need for this application comes from the poor distribution of food currently in America. The first service is a pantry service which will allow users to enter in items that they currently have within their pantry. With this list of items, the users will then be able to search for a list of recipes that they can make given the items that they have listed within their account’s pantry. The application will be able to search for both recipes for cooking and recipes for drinks.
@@ -150,5 +159,4 @@ Team Members: James Hancock
 This project will build an interface with the Vanderbilt TV News Archive that will allow for the creation and training of AI (primarily machine learning) models. Primary component will consist of a python based program utilizing at least PyTorch and Scikit Learn if not additionally Tensorflow, and possibly other deep learning frameworks. This program recieve the following parameters: Task category (classificaiton, regression, etc.), task target (classifying segment type, generating captions for audio, etc.) model structure and training parameters.
 
 Once model creation has been tested and is functional, additional time will be spent adding additional options for model creation, as well as developing a django based API for requesting and sending models.
-
 
