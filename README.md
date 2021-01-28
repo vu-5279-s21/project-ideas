@@ -15,8 +15,13 @@ For my senior design project, I am going to build a multiplayer game where playe
 
 This project will likely be written in react native in order to achieve cross platform compatibility for mobile devices, and will hopefully use a distributed game server to support concurrent multiplayer functionality. Having a wide array of potential minigames to develop will allow for our agile process to produce meaningful working content at each stage, while also allowing for enough potential creative leeway to keep pushing our development process forward with new content throughout the semester. We will have to use graphical tools to implement game sprites and such, and may have to implement basic physics engines for some of the minigames as well. As far as non-technical specs go, a significant chunk of time will probably be spent developing designs/ minigames that can be incorporated into the larger game.
 
+## Automated Trading
 
-## Project Idea: Music Theory Analytics Platform
+This project will build an Automated Trading platform that can be used by traders to reduce the traffic of Request for Quotes (RFQs). The team will do through Amazon Web Services's Augmented Artificial Intelligence (A2I). A2I combines the power of machine learning with the precision and care of human review, which is perfect for the riskiness, complexity, and unpredictability of the stock market. In addition, the Machine Learning aspect of A2I will improve the quality of the platform's predictions over time.
+
+First, the team will develop a set of ML algorithms to recognize stock trends. These algorithms will then be applied to different financial data sets through the A2I platform. This way, when an RFQ is received, the the platform will determine whether the trade/quote is beneficial above a certain specified confidence interval (i.e. above 95% confident). In other words, the platform will automatically complete/respond to an RFQ if it is over 95% confident it will be a successful trade. Any RFQs that the platform is less than 95% confident will be profitable will be sent to a human trader for "human review," during which the trader can assess the RFQ and make a decision. This decision is then used to improve the machine learning algorithms and future predictions. This will significantly reduce RFQ traffic by automating any trivial trades and filtering out any obvious RFQs, leaving the more complex RFQs for human traders to evaluate.
+
+## Music Theory Analytics Platform
 
 The goal of this project is to develop a platform for analyzing and looking into the music theory
 of songs by utilizing machine learning algorithms to first get the individual stems of a song (like bass, vocals,
