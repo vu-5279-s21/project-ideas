@@ -34,10 +34,6 @@ voicings) or different chord substitutions and reharmonization. This functionali
 data on chord structures of songs to recognize common substitutions, allowing users to explore new arrangements or methods
 of song production and mixes.
 
-# All Project Ideas Down Here
-
-Add your project ideas after this sentence. 
-
 ## Web-scraping and data analysis on the stock market
 
 Web-scraping is a crucial technique during the burst of big data, and handling the skills to make meaningful analyses from this information would help us gain important insights. Out of the vast amount of resources available on the internet, I'm distinctly interested in exploring the mysterious stock market. To achieve that goal, I propose the project to scrape financial stock-related information, such as the open price, bid, ask, volume, total revenue, and the market cap of a company, from credible finance websites. After the scraping algorithm performs well, the later stage of this project aims to perform a rudimentary or intermediate market analysis to recommend as to buy, hold, or sell a given stock. The project may point to various directions of development, such as statistical graphic generations, data analyses, or recommendation systems. 
