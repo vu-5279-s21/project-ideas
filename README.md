@@ -14,8 +14,14 @@ The platform will focus on classification tasks. Users will be able to upload da
 
 # All Project Ideas Down Here
 
+
+## Project Idea: Tinder Meets Netflix
+
+ This project will build an application for users to help figure out what to watch on netflix or other streaming services with your friends. How this application works is you group up with the friends you want to watch with, in the group you select which streaming services you have available to check from, then you just swipe on movies until you all match on one together to watch. 
+ 
+ This will help get rid of the struggle of trying to figure out what yo uall want to watch on different streaming services. This will also have some features such as allowing you to check genres you want and dont want to watch. You can have a friends list to make it easy to group with your friends when you want, and can see a history of past movies watched. 
+
 ## CityPark
-Add your project ideas after this sentence. 
 
 I call my project City Park. Tell me how many times have you gone to any city (especially its downtown area) and found yourself circling countless city blocks before you can finally parallel park your big SUV into that spot that’s probably only meant for sedans? If I were a betting man, I’d guess your response would be “numerous” or “a lot”. Well, the idea for my project is an application to help combat all of this wasted time if you know your destination. Maybe think of it as Waze, but for parking. 
 
