@@ -11,7 +11,15 @@ The platform will focus on classification tasks. Users will be able to upload da
 ## Project Idea: Your Project Title Here [Don't Edit]
 
 
+
 # All Project Ideas Down Here
+
+## Used Textbook Marketplace
+This project will address the difficulties that students face in buying and selling college textbooks. Used textbooks are sold at meager 20%-30% discounts from publishing houses and bought back at 60-70% discounts, revelaing a large profit margin that could be returned to students by removing the monopolistic grip that publishers hold over this market.
+This project would establish a marketplace for buyers and sellers to transact, in hopes of helping both parties, and lessening the assymetric information gap that publishers leverage and exploit. 
+
+The platform would require students to validate their identity with their email address and phone number. When submitting a bid or an ask, the students would have to specify the course, the book name, author, and volume/edition, the desired/existing condition, a few pictures of the book in the case of an ask, and the price of the bid/ask. Upon placement of a bid/ask, the publishers of an existing listings would be notified via email/text of the bid/ask details, regardless of if the request falls within their acceptable margins, to facilitate negotiation and exchange. The application wouldn't be responsible for the negotiation process or the financial transaction, as those responsibilities would fall on text/message/social media apps and cash/check/online payment apps, respectively. 
+
 
 ## HeartbreAKA Website Phase 2
 Every year, the Elegant Eta Beta Chapter of Alpha Kappa Alpha Sorority, Inc. has hosted a date auction event where attendees can donate money and art supplies to receive AKA dollars which can be used to bid on the bachelors during the event. Due to COVID, the chapter can not hold their event in person this year. Therefore, they wanted a website to be built that could be used to facilitate gathering donations and hosting the live auction.
